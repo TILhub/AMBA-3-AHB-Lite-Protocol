@@ -1,5 +1,9 @@
 # AMBA-3-AHB-Lite-Protocol
 ##### This Repo contains SystemC for testBench for AMBA® 3 AHB-Lite Protocol
+
+### For Introduction of SystemC or Guide on How to setup SystemC on Visual Studio
+  https://github.com/TILhub/SystemC-Introduction
+
 AHB-Lite implements the features required for high-performance, high clock
 frequency systems including:
 • burst transfers
